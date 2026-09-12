@@ -1,0 +1,13 @@
+.env
+venv/
+__pycache__/
+*.mp4
+*.mp3
+*.jpg
+*.png
+cloud_test.txt
+final_videos/
+client_secret*.json
+token.json
+*.ogg
+video_metadata.txt
